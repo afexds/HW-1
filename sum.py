@@ -13,3 +13,6 @@ print(list(range(1, num + 1)))
 total_2 = num * (num + 1) // 2
 
 print(total_2)  #5050
+
+
+#For second edit 
